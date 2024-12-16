@@ -5,17 +5,17 @@ This project aims to analyze restaurant reviews to determine the sentiment (posi
 Understanding customer sentiments is crucial for improving restaurant services. This project processes customer reviews to provide meaningful insights using sentiment analysis. The goal is to classify reviews as positive, negative, or neutral.
 
 **Features**
-a.Preprocessing of raw text data
-b.Sentiment classification using supervised machine learning algorithms
-c.Visualization of sentiment trends
-d.Exportable results for further analysis.
+Preprocessing of raw text data,
+Sentiment classification using supervised machine learning algorithms,
+Visualization of sentiment trends,
+Exportable results for further analysis.
 
 **Technologies Used**
-Python
-Scikit-learn
-NLTK (Natural Language Toolkit)
-Pandas & NumPy
-Matplotlib & Seaborn
+Python,
+Scikit-learn,
+NLTK (Natural Language Toolkit),
+Pandas & NumPy,
+Matplotlib & Seaborn,
 
 **Dataset**
 The project uses a publicly available dataset of restaurant reviews.
